@@ -47,7 +47,8 @@
   cursor: pointer;
   border: 1px solid #ccc;
   height: 40px;
-  width: 170px;
+  background: #eaedf4;
+  width: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
